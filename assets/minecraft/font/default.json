@@ -1,0 +1,355 @@
+{
+  "providers": [
+    // 
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_contributeur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE100"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_contributeur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE110"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_contributeur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE120"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_compositeur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE101"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_compositeur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE111"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_compositeur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE121"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_architecte.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE102"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_architecte.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE112"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_architecte.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE122"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_artiste.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE103"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_artiste.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE113"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_artiste.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE123"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_dev.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE104"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_dev.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE114"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_dev.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE124"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_modo.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE105"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_modo.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE115"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_modo.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE125"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_player.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE106"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_player.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE116"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_player.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE126"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_ranked.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE107"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_ranked.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE117"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_ranked.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE127"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_yt.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE108"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_yt.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE118"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_yt.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE128"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_admin.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE109"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_admin.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE119"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_admin.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE129"]
+    },
+
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_0_fondateur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE10A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_1_fondateur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE11A"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:icon/rank_2_fondateur.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE12A"]
+    },
+
+
+
+    ///////////// CONTINUE HERE ///////////////
+
+
+
+
+
+
+    // SMALL CAPS
+
+    {"type": "bitmap", "file": "axecraft:font/char_a.png", "ascent": 8, "height": 10, "chars": ["a"]},
+    {"type": "bitmap", "file": "axecraft:font/char_b.png", "ascent": 8, "height": 10, "chars": ["b"]},
+    {"type": "bitmap", "file": "axecraft:font/char_c.png", "ascent": 8, "height": 10, "chars": ["c"]},
+    {"type": "bitmap", "file": "axecraft:font/char_d.png", "ascent": 8, "height": 10, "chars": ["d"]},
+    {"type": "bitmap", "file": "axecraft:font/char_e.png", "ascent": 8, "height": 10, "chars": ["e"]},
+    {"type": "bitmap", "file": "axecraft:font/char_f.png", "ascent": 8, "height": 10, "chars": ["f"]},
+    {"type": "bitmap", "file": "axecraft:font/char_g.png", "ascent": 8, "height": 10, "chars": ["g"]},
+    {"type": "bitmap", "file": "axecraft:font/char_h.png", "ascent": 8, "height": 10, "chars": ["h"]},
+    {"type": "bitmap", "file": "axecraft:font/char_i.png", "ascent": 8, "height": 10, "chars": ["i"]},
+    {"type": "bitmap", "file": "axecraft:font/char_j.png", "ascent": 8, "height": 10, "chars": ["j"]},
+    {"type": "bitmap", "file": "axecraft:font/char_k.png", "ascent": 8, "height": 10, "chars": ["k"]},
+    {"type": "bitmap", "file": "axecraft:font/char_l.png", "ascent": 8, "height": 10, "chars": ["l"]},
+    {"type": "bitmap", "file": "axecraft:font/char_m.png", "ascent": 8, "height": 10, "chars": ["m"]},
+    {"type": "bitmap", "file": "axecraft:font/char_n.png", "ascent": 8, "height": 10, "chars": ["n"]},
+    {"type": "bitmap", "file": "axecraft:font/char_o.png", "ascent": 8, "height": 10, "chars": ["o"]},
+    {"type": "bitmap", "file": "axecraft:font/char_p.png", "ascent": 8, "height": 10, "chars": ["p"]},
+    {"type": "bitmap", "file": "axecraft:font/char_q.png", "ascent": 8, "height": 10, "chars": ["q"]},
+    {"type": "bitmap", "file": "axecraft:font/char_r.png", "ascent": 8, "height": 10, "chars": ["r"]},
+    {"type": "bitmap", "file": "axecraft:font/char_s.png", "ascent": 8, "height": 10, "chars": ["s"]},
+    {"type": "bitmap", "file": "axecraft:font/char_t.png", "ascent": 8, "height": 10, "chars": ["t"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u.png", "ascent": 8, "height": 10, "chars": ["u"]},
+    {"type": "bitmap", "file": "axecraft:font/char_v.png", "ascent": 8, "height": 10, "chars": ["v"]},
+    {"type": "bitmap", "file": "axecraft:font/char_w.png", "ascent": 8, "height": 10, "chars": ["w"]},
+    {"type": "bitmap", "file": "axecraft:font/char_x.png", "ascent": 8, "height": 10, "chars": ["x"]},
+    {"type": "bitmap", "file": "axecraft:font/char_y.png", "ascent": 8, "height": 10, "chars": ["y"]},
+    {"type": "bitmap", "file": "axecraft:font/char_z.png", "ascent": 8, "height": 10, "chars": ["z"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u00e1.png", "ascent": 8, "height": 10, "chars": ["á"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e0.png", "ascent": 8, "height": 10, "chars": ["à"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e2.png", "ascent": 8, "height": 10, "chars": ["â"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e4.png", "ascent": 8, "height": 10, "chars": ["ä"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e3.png", "ascent": 8, "height": 10, "chars": ["ã"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e5.png", "ascent": 8, "height": 10, "chars": ["å"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e6.png", "ascent": 8, "height": 10, "chars": ["æ"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u00e7.png", "ascent": 8, "height": 10, "chars": ["ç"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e9.png", "ascent": 8, "height": 10, "chars": ["é"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00e8.png", "ascent": 8, "height": 10, "chars": ["è"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00ea.png", "ascent": 8, "height": 10, "chars": ["ê"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00eb.png", "ascent": 8, "height": 10, "chars": ["ë"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u00ed.png", "ascent": 8, "height": 10, "chars": ["í"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00ec.png", "ascent": 8, "height": 10, "chars": ["ì"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00ee.png", "ascent": 8, "height": 10, "chars": ["î"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00ef.png", "ascent": 8, "height": 10, "chars": ["ï"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u00f1.png", "ascent": 8, "height": 10, "chars": ["ñ"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u00f3.png", "ascent": 8, "height": 10, "chars": ["ó"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00f2.png", "ascent": 8, "height": 10, "chars": ["ò"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00f4.png", "ascent": 8, "height": 10, "chars": ["ô"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00f6.png", "ascent": 8, "height": 10, "chars": ["ö"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00f5.png", "ascent": 8, "height": 10, "chars": ["õ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0153.png", "ascent": 8, "height": 10, "chars": ["œ"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u00fa.png", "ascent": 8, "height": 10, "chars": ["ú"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00f9.png", "ascent": 8, "height": 10, "chars": ["ù"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00fb.png", "ascent": 8, "height": 10, "chars": ["û"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00fc.png", "ascent": 8, "height": 10, "chars": ["ü"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u00fd.png", "ascent": 8, "height": 10, "chars": ["ý"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u00ff.png", "ascent": 8, "height": 10, "chars": ["ÿ"]},
+
+    {"type": "bitmap", "file": "axecraft:font/char_u0105.png", "ascent": 8, "height": 10, "chars": ["ą"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0107.png", "ascent": 8, "height": 10, "chars": ["ć"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0109.png", "ascent": 8, "height": 10, "chars": ["ĉ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u010d.png", "ascent": 8, "height": 10, "chars": ["č"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u010f.png", "ascent": 8, "height": 10, "chars": ["ď"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0111.png", "ascent": 8, "height": 10, "chars": ["đ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0113.png", "ascent": 8, "height": 10, "chars": ["ē"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0117.png", "ascent": 8, "height": 10, "chars": ["ė"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0119.png", "ascent": 8, "height": 10, "chars": ["ę"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u011d.png", "ascent": 8, "height": 10, "chars": ["ĝ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u011f.png", "ascent": 8, "height": 10, "chars": ["ğ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0123.png", "ascent": 8, "height": 10, "chars": ["ģ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0127.png", "ascent": 8, "height": 10, "chars": ["ħ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0131.png", "ascent": 8, "height": 10, "chars": ["ı"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0135.png", "ascent": 8, "height": 10, "chars": ["ĵ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0137.png", "ascent": 8, "height": 10, "chars": ["ķ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u013c.png", "ascent": 8, "height": 10, "chars": ["ļ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u013e.png", "ascent": 8, "height": 10, "chars": ["ľ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0142.png", "ascent": 8, "height": 10, "chars": ["ł"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0144.png", "ascent": 8, "height": 10, "chars": ["ń"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0146.png", "ascent": 8, "height": 10, "chars": ["ņ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0148.png", "ascent": 8, "height": 10, "chars": ["ň"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0155.png", "ascent": 8, "height": 10, "chars": ["ŕ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0159.png", "ascent": 8, "height": 10, "chars": ["ř"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u015b.png", "ascent": 8, "height": 10, "chars": ["ś"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u015f.png", "ascent": 8, "height": 10, "chars": ["ş"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0161.png", "ascent": 8, "height": 10, "chars": ["š"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0165.png", "ascent": 8, "height": 10, "chars": ["ť"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u016b.png", "ascent": 8, "height": 10, "chars": ["ū"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0173.png", "ascent": 8, "height": 10, "chars": ["ų"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u017a.png", "ascent": 8, "height": 10, "chars": ["ź"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u0163.png", "ascent": 8, "height": 10, "chars": ["ţ"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u017c.png", "ascent": 8, "height": 10, "chars": ["ż"]},
+    {"type": "bitmap", "file": "axecraft:font/char_u017e.png", "ascent": 8, "height": 10, "chars": ["ž"]}
+  ]
+}
