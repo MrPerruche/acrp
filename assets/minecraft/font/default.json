@@ -307,6 +307,28 @@
       "chars": ["\uE137"]
     },
 
+    {
+      "type": "bitmap",
+      "file": "axecraft:splash/media_cmd_pt1.png",
+      "ascent": 7,
+      "height": 70,
+      "chars": ["\uE140"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:splash/media_cmd_pt2.png",
+      "ascent": 7,
+      "height": 70,
+      "chars": ["\uE141"]
+    },
+    {
+      "type": "bitmap",
+      "file": "axecraft:splash/media_cmd_patch.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE142"]
+    },
+
 
 
 
