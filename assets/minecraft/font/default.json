@@ -328,6 +328,13 @@
       "height": 7,
       "chars": ["\uE142"]
     },
+    {
+      "type": "bitmap",
+      "file": "axecraft:font/diamond.png",
+      "ascent": 7,
+      "height": 7,
+      "chars": ["\uE200"]
+    },
 
 
 
